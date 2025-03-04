@@ -1,3 +1,11 @@
+#file frontend gabisa up gatau kenapa, di clone aja bang lngsung tapi terus bagian FE
+##FE
+- npx create-react-app frontend  
+- npm i react-router-dom axios bulma
+- folder SRC diganti yg itu aja bang aman
+- yg folder selain be sama fe terus dihapus dari root
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
